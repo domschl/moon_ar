@@ -4,7 +4,7 @@
 
 ## Quick start for Apple AR
 
-Simply store the a `.usdz` on a Mac or iPhone/iPad. `Moon_ani.usdz` is a 
+Simply store the `.usdz` on a Mac or iPhone/iPad. `Moon_ani.usdz` is a 
 3D model of the moon that slowly rotates in AR, `Moon.usdz` is a static 3D
 model.
 
