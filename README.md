@@ -9,6 +9,7 @@ Simply store the a `.usdz` on a Mac or iPhone/iPad. `Moon_ani.usdz` is a
 model.
 
 ![AR Moon in living room](doc/moon_ar.png)
+_A virtual moon in the living room_
 
 When opening on an iOS device, the moon can be placed in the surrounding
 with iOS's AR functionality.
