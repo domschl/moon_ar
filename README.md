@@ -28,9 +28,11 @@ Note: This model big: You might need to pinch zoom back to see the surface.
 
 ### NASA Scientific Visualisation Studio's image textures
 
-Sources for map and displacement:
-
 [NASA's Scientific Visualization Studio](https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4720)
+
+CGI Moon Kit, Visualizations by Ernie Wright
+
+Sources for map and displacement:
 
 The hightest-resolution texture maps are at:
 
@@ -41,4 +43,5 @@ Store the downloads in the same directory with the `.blend` file.
 
 ### USDZ export tool
 
-* <https://github.com/robmcrosby/BlenderUSDZ>
+* <https://github.com/robmcrosby/BlenderUSDZ> by Robert Crosby.
+
