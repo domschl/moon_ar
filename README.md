@@ -8,6 +8,13 @@ Simply store the a `.usdz` on a Mac or iPhone/iPad. `Moon_ani.usdz` is a
 3D model of the moon that slowly rotates in AR, `Moon.usdz` is a static 3D
 model.
 
+![AR Moon in living room](doc/moon_ar.png)
+
+When opening on an iOS device, the moon can be placed in the surrounding
+with iOS's AR functionality.
+
+Note: This model big: You might need to pinch zoom back to see the surface.
+
 ## Generate your own version with Blender
 
 * Install the [USDZ Export/Import tool for blender](https://github.com/robmcrosby/BlenderUSDZ)
