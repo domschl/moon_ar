@@ -8,8 +8,7 @@ Simply store the a `.usdz` on a Mac or iPhone/iPad. `Moon_ani.usdz` is a
 3D model of the moon that slowly rotates in AR, `Moon.usdz` is a static 3D
 model.
 
-![AR Moon in living room](doc/moon_ar.png)
-_A virtual moon in the living room_
+<img align="right" width="320" src="https://github.com/domschl/moon_ar/blob/main/doc/moon_ar.png">
 
 When opening on an iOS device, the moon can be placed in the surrounding
 with iOS's AR functionality.
