@@ -1,5 +1,7 @@
 # 3D-Mond model in Blender based on NASA maps with Apple-AR export
 
+![Blender 3D moon](doc/blender_moon.png)
+
 ## Quick start for Apple AR
 
 Simply store the a `.usdz` on a Mac or iPhone/iPad. `Moon_ani.usdz` is a 
