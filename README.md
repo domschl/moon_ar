@@ -1,4 +1,4 @@
-# 3D-Mond model in Blender based on NASA maps with Apple-AR export
+# 3D Moon model in Blender based on NASA maps with Apple-AR export
 
 ![Blender 3D moon](doc/blender_moon.png)
 
