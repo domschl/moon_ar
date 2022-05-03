@@ -44,6 +44,8 @@ The hightest-resolution texture maps are at:
 
 Store the downloads in the same directory with the `.blend` file.
 
+If you have `wget` available, `download_resources.sh` downloads the files on unixoid or macos platforms.
+
 ### USDZ export tool
 
 * <https://github.com/robmcrosby/BlenderUSDZ> by Robert Crosby.
